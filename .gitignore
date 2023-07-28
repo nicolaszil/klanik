@@ -33,3 +33,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# custom
+.z
+src/components/Root.new.tsx
+src/routes/Root.new.tsx
+src/routes/Nav.tsx
